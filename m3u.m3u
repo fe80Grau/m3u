@@ -87,6 +87,10 @@ http://1767c9406e3154e42ed36310bfd70252.lig.iscaja.me:25461/5gbmsozgMI/694547734
 http://1767c9406e3154e42ed36310bfd70252.lig.iscaja.me:25461/5gbmsozgMI/694547734926/421?h=5488257265a41db7478df9062343aa9a70d9b9a0&z=&i=85551
 #EXTINF:-1,ANTENA 3 HD
 http://1767c9406e3154e42ed36310bfd70252.lig.iscaja.me:25461/5gbmsozgMI/694547734926/348?h=5488257265a41db7478df9062343aa9a70d9b9a0&z=&i=85551
+#EXTINF:-1 tvg-name="TV3 Cat" tvg-logo="https://imgur.com/rNQYHmx.png" group-title="Spain",TV3 Cat
+https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8?DVR
+#EXTINF:-1 tvg-name="3/24" tvg-logo="https://i.imgur.com/b59MxgM.png" group-title="Spain",3/24
+https://directes-tv-cat.ccma.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1,CUATRO HD
 http://1767c9406e3154e42ed36310bfd70252.spa.iscaja.me:25461/5gbmsozgMI/694547734926/351?h=5488257265a41db7478df9062343aa9a70d9b9a0&z=&i=85551
 #EXTINF:-1,TELECINCO HD
